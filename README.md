@@ -1,2 +1,2 @@
-# TCPUDPServers
-TCPserver and UDPserver implementations with python
+# TCP and UDP Servers
+TCP server and UDP server implementations with python
